@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silveriohuarcaya/proyecto-express.git"
+  },
+  "keywords": [],
+  "author": "Silverio Huarcaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silveriohuarcaya/proyecto-express/issues"
+  },
+  "homepage": "https://github.com/silveriohuarcaya/proyecto-express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

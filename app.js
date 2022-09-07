@@ -1,8 +1,8 @@
 const express = require("express");
 
-const router = express.Router();
-
 const app = express();
+
+// prueba
 
 const PORT = 8080;
 app.listen(PORT, () => {

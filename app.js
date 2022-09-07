@@ -2,7 +2,7 @@ const express = require("express");
 
 const app = express();
 
-// prueba
+const config = express.config();
 
 const PORT = 8080;
 app.listen(PORT, () => {
